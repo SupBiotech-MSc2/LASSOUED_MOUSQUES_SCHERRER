@@ -12,6 +12,8 @@ screening.
 - Synthetic sgRNA (target-specific)
 - Electroporation buffer
 - HEK293 cells, passage < 20
+- PBS (for washing cells)
+- Trypsin-EDTA (for detaching cells)
 
 ## Steps
 1. Design and order sgRNA targeting exon 2 of the gene of interest.
@@ -22,4 +24,7 @@ screening.
 
 ## Team Notes
 <!-- add your own line below, one per teammate -->
-Modification essaie Louise
+
+Aurore a écrit cette phrase de test
+Lilia : step 4 should specify incubation conditions (37°C, 5% CO2)
+Louise : step 5 could add a negative control (non-targeting sgRNA)
