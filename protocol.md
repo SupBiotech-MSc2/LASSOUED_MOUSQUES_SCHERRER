@@ -16,7 +16,6 @@ screening.
 - Trypsin-EDTA (for detaching cells)
 - Antibiotic-free DMEM + 10% FBS (recovery media)
 - Cell culture medium (DMEM + 10% FBS)
-- Antibiotic-free recovery medium
 
 ## Steps
 1. Design and order sgRNA targeting exon 2 of the gene of interest.
