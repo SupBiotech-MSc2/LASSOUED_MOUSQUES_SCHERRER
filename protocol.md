@@ -23,5 +23,4 @@ screening.
 ## Team Notes
 <!-- add your own line below, one per teammate -->
 
-Lilia : this is my line
 Aurore a écrit cette phrase de test
