@@ -24,3 +24,4 @@ screening.
 <!-- add your own line below, one per teammate -->
 
 Aurore a écrit cette phrase de test
+Lilia : step 4 should specify incubation conditions (37°C, 5% CO2)
