@@ -28,4 +28,3 @@ screening.
 Aurore a écrit cette phrase de test
 Lilia : step 4 should specify incubation conditions (37°C, 5% CO2)
 Louise : step 5 could add a negative control (non-targeting sgRNA)
-Louise : test revert line
