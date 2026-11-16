@@ -15,6 +15,7 @@ screening.
 - PBS (for washing cells)
 - Trypsin-EDTA (for detaching cells)
 - Cell culture medium (DMEM + 10% FBS)
+- Antibiotic-free recovery medium
 
 ## Steps
 1. Design and order sgRNA targeting exon 2 of the gene of interest.
