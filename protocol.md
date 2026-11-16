@@ -14,6 +14,7 @@ screening.
 - HEK293 cells, passage < 20
 - PBS (for washing cells)
 - Trypsin-EDTA (for detaching cells)
+- Cell culture medium (DMEM + 10% FBS)
 
 ## Steps
 1. Design and order sgRNA targeting exon 2 of the gene of interest.
