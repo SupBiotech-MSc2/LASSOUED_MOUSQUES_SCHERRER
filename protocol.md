@@ -25,6 +25,10 @@ screening.
 ## Team Notes
 <!-- add your own line below, one per teammate -->
 
+<<<<<<< HEAD
 Aurore a écrit cette phrase de test
 Lilia : step 4 should specify incubation conditions (37°C, 5% CO2)
+Louise : step 5 could add a negative control (non-targeting sgRNA)
+=======
+>>>>>>> parent of 021eb15 (feat : Essaie modification Louise)
 Louise : step 5 could add a negative control (non-targeting sgRNA)
