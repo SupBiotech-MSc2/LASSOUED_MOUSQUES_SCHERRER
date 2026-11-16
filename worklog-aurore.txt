@@ -1,0 +1,486 @@
+*   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-aurore.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+diff --git a/protocol.md b/protocol.md
+index 0029fe1..b63e1b2 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -25,3 +25,4 @@ screening.
+ Aurore a écrit cette phrase de test
+ 
+ Lilia : this is my line
++**Status:** BROKEN
+*   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+*   9786471 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-aurore.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[main 6b62608] test: throwaway commit
+ Committer: Aurore Scherrer <aurorescherrer@MacBook-Air-3.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+6b62608 test: throwaway commit
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+Unstaged changes after reset:
+M	protocol.md
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-aurore.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-aurore.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+Auto-merging protocol.md
+[main 6ebe954] Revert "feat: add team note from aurore"
+ Date: Mon Nov 16 22:02:41 2026 +0100
+ Committer: Aurore Scherrer <aurorescherrer@MacBook-Air-3.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+6ebe954 Revert "feat: add team note from aurore"
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"Aurore a \303\251crit cette phrase de test"
+	worklog-aurore.txt
+	worklog-aurore.txtecho
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"Aurore a \303\251crit cette phrase de test"
+	worklog-aurore.txt
+	worklog-aurore.txtecho
+
+nothing added to commit but untracked files present (use "git add" to track)
+[main 35c243c] feat: restore team note from aurore
+ 1 file changed, 1 insertion(+)
+* 35c243c (HEAD -> main) feat: restore team note from aurore
+* 6ebe954 (origin/main, origin/HEAD) Revert "feat: add team note from aurore"
+*   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+commit 35c243c7fbb33d06acc930763461ab4300ca7ae0
+Author: Aurore Scherrer <aurore.scherrer@supbiotech.fr>
+Date:   Mon Nov 16 22:10:08 2026 +0100
+
+    feat: restore team note from aurore
+commit 35c243c7fbb33d06acc930763461ab4300ca7ae0
+Author: Aurore Scherrer <aurore.scherrer@supbiotech.fr>
+Date:   Mon Nov 16 22:10:08 2026 +0100
+
+    feat: restore team note from aurore
+
+commit 6ebe95420c4be08dc4ef2d04a1615a368479859f
+Author: Aurore Scherrer <aurorescherrer@MacBook-Air-3.lan>
+Date:   Mon Nov 16 22:02:41 2026 +0100
+
+    Revert "feat: add team note from aurore"
+    
+    This reverts commit dda1843da39c7a18624815f5bdcc23ce6cdc7b70.
+
+commit 9786471eb75b9665402f3d45e11ab1784148fa77
+Merge: dda1843 6fbae55
+Author: Aurore Scherrer <aurorescherrer@MacBook-Air-3.local>
+Date:   Mon Nov 16 13:41:32 2026 +0100
+
+    Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+
+commit 6fbae55b7af67a94dfb635b3233cf27b6a690604
+Author: LILIA LASSOUED <lassouedlilia@MacBook-Air-de-LILIA.local>
+Date:   Thu Sep 24 12:34:56 2026 +0200
+
+    feat : modification essai  lilia
+
+commit dda1843da39c7a18624815f5bdcc23ce6cdc7b70
+Author: Aurore Scherrer <aurorescherrer@MacBook-Air-3.local>
+Date:   Thu Sep 24 12:34:04 2026 +0200
+
+    feat: add team note from aurore
+
+commit d02438693fe31244ccdfbe0a2181323925d605fe
+Author: auroresch09 <aurorescherrer09@gmail.com>
+Date:   Thu Sep 24 11:42:41 2026 +0200
+
+    Initial commit
+35c243c feat: restore team note from aurore
+6ebe954 Revert "feat: add team note from aurore"
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+commit dda1843da39c7a18624815f5bdcc23ce6cdc7b70
+Author: Aurore Scherrer <aurorescherrer@MacBook-Air-3.local>
+Date:   Thu Sep 24 12:34:04 2026 +0200
+
+    feat: add team note from aurore
+
+diff --git a/protocol.md b/protocol.md
+index f083b29..b95d620 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -22,4 +22,5 @@ screening.
+ 
+ ## Team Notes
+ <!-- add your own line below, one per teammate -->
++Aurore a écrit cette phrase de test
+ 
+commit 6ebe95420c4be08dc4ef2d04a1615a368479859f
+Author: Aurore Scherrer <aurorescherrer@MacBook-Air-3.lan>
+Date:   Mon Nov 16 22:02:41 2026 +0100
+
+    Revert "feat: add team note from aurore"
+    
+    This reverts commit dda1843da39c7a18624815f5bdcc23ce6cdc7b70.
+
+diff --git a/protocol.md b/protocol.md
+index 0029fe1..f605ffa 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -22,6 +22,5 @@ screening.
+ 
+ ## Team Notes
+ <!-- add your own line below, one per teammate -->
+-Aurore a écrit cette phrase de test
+ 
+ Lilia : this is my line
+commit 6fbae55b7af67a94dfb635b3233cf27b6a690604
+Author: LILIA LASSOUED <lassouedlilia@MacBook-Air-de-LILIA.local>
+Date:   Thu Sep 24 12:34:56 2026 +0200
+
+    feat : modification essai  lilia
+
+diff --git a/protocol.md b/protocol.md
+index f083b29..f605ffa 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -23,3 +23,4 @@ screening.
+ ## Team Notes
+ <!-- add your own line below, one per teammate -->
+ 
++Lilia : this is my line
+* feature/aurore-idea
+  main
+diff --git a/protocol.md b/protocol.md
+index e4cfbaa..19171cd 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -12,6 +12,7 @@ screening.
+ - Synthetic sgRNA (target-specific)
+ - Electroporation buffer
+ - HEK293 cells, passage < 20
++- PBS (for washing cells)
+ 
+ ## Steps
+ 1. Design and order sgRNA targeting exon 2 of the gene of interest.
+@@ -22,6 +23,6 @@ screening.
+ 
+ ## Team Notes
+ <!-- add your own line below, one per teammate -->
++Aurore a écrit cette phrase de test
+ 
+ Lilia : this is my line
+-Aurore a écrit cette phrase de test
+[feature/aurore-idea 8656a9a] feat: add PBS to reagents list
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/main'.
+[feature/aurore-idea be16ccd] feat: add trypsin to reagents list
+ 1 file changed, 1 insertion(+)
+35c243c feat: restore team note from aurore
+6ebe954 Revert "feat: add team note from aurore"
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+be16ccd feat: add trypsin to reagents list
+8656a9a feat: add PBS to reagents list
+35c243c feat: restore team note from aurore
+6ebe954 Revert "feat: add team note from aurore"
+9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55 feat : modification essai  lilia
+dda1843 feat: add team note from aurore
+d024386 Initial commit
+Current branch feature/aurore-idea is up to date.
+* be16ccd (HEAD -> feature/aurore-idea) feat: add trypsin to reagents list
+* 8656a9a (origin/feature/aurore-idea) feat: add PBS to reagents list
+* 35c243c (origin/main, origin/HEAD, main) feat: restore team note from aurore
+* 6ebe954 Revert "feat: add team note from aurore"
+*   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+Your branch is up to date with 'origin/main'.
+Updating 35c243c..7cdab95
+Fast-forward
+ protocol.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+7cdab95 (HEAD -> main, origin/main, origin/HEAD) feat: restore team note from lilia
+dd36228 Revert "feat : modification essai  lilia"
+35c243c feat: restore team note from aurore
+commit 7cdab95140a95de5be901ca890daac59f1325366
+Author: Lilia Lassoued <lilia.lassoued@supbiotech.fr>
+Date:   Mon Nov 16 22:49:18 2026 +0100
+
+    feat: restore team note from lilia
+
+diff --git a/protocol.md b/protocol.md
+index 01052b9..9b9cbaf 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -24,3 +24,4 @@ screening.
+ <!-- add your own line below, one per teammate -->
+ 
+ Aurore a écrit cette phrase de test
++Lilia : step 4 should specify incubation conditions (37°C, 5% CO2)
+Auto-merging protocol.md
+Merge made by the 'ort' strategy.
+ protocol.md | 2 ++
+ 1 file changed, 2 insertions(+)
+*   b9d8d71 (HEAD -> main, origin/main, origin/HEAD) chore: merge feature/aurore-idea into main
+|\  
+| * be16ccd (origin/feature/aurore-idea, feature/aurore-idea) feat: add trypsin to reagents list
+| * 8656a9a feat: add PBS to reagents list
+* | 7cdab95 feat: restore team note from lilia
+* | dd36228 Revert "feat : modification essai  lilia"
+|/  
+* 35c243c feat: restore team note from aurore
+* 6ebe954 Revert "feat: add team note from aurore"
+*   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\  
+| * 6fbae55 feat : modification essai  lilia
+* | dda1843 feat: add team note from aurore
+|/  
+* d024386 Initial commit
+Already up to date.
+[feature/status-v2 0c61f98] chore: bump status to draft v2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/main'.
+Updating b9d8d71..0c61f98
+Fast-forward
+ protocol.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+* 0c61f98 (HEAD -> main, origin/main, origin/HEAD, feature/status-v2) chore: bump status to draft v2
+*   b9d8d71 chore: merge feature/aurore-idea into main
+|\  
+| * be16ccd (origin/feature/aurore-idea, feature/aurore-idea) feat: add trypsin to reagents list
+| * 8656a9a feat: add PBS to reagents list
+* | 7cdab95 feat: restore team note from lilia
+17f44e4  Louise Mousques : docs: update worklog for louise
+7ab1108  Louise Mousques : fix: remove duplicate recovery medium
+674d309  Louise Mousques : Merge branch 'feature/louise-idea'
+f814205  Lilia Lassoued : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+cbea33f  Louise Mousques : docs: add louise worklog
+6dc0faf  Lilia Lassoued : docs: add worklog for lilia
+a746bf2  Lilia Lassoued : Merge branch 'feature/lilia-idea'
+a611905  Louise Mousques : feat: add recovery medium to reagents list
+5a2fce6  Louise Mousques : feat: add culture medium to reagents list
+b026773  Louise Mousques : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+c1ed833  Lilia Lassoued : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+0178a55  Louise Mousques : Revert "feat: add louise test line"
+e6264c5  Louise Mousques : feat: add louise test line
+147a342  Lilia Lassoued : Merge branch 'feature/status-review'
+63e53e8  Louise Mousques : fix: remove leftover conflict markers
+2d46bcb  Louise Mousques : feat: restore team note from louise
+3386c3f  Lilia Lassoued : chore: mark status as under review
+0a1beba  Louise Mousques : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+33c3cc0  Mousques Louise : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+0c61f98  Aurore Scherrer : chore: bump status to draft v2
+b9d8d71  Aurore Scherrer : chore: merge feature/aurore-idea into main
+be16ccd  Aurore Scherrer : feat: add trypsin to reagents list
+7cdab95  Lilia Lassoued : feat: restore team note from lilia
+dd36228  Lilia Lassoued : Revert "feat : modification essai  lilia"
+8656a9a  Aurore Scherrer : feat: add PBS to reagents list
+d3e97a6  Lilia Lassoued : docs: specify incubation conditions for recovery
+643122d  Lilia Lassoued : feat: add recovery media to reagents
+35c243c  Aurore Scherrer : feat: restore team note from aurore
+6ebe954  Aurore Scherrer : Revert "feat: add team note from aurore"
+9786471  Aurore Scherrer : Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+6fbae55  LILIA LASSOUED : feat : modification essai  lilia
+dda1843  Aurore Scherrer : feat: add team note from aurore
+021eb15  Mousques Louise : feat : Essaie modification Louise
+d024386  auroresch09 : Initial commit
+Updating 0c61f98..17f44e4
+Fast-forward
+ protocol.md        |   5 +-
+ worklog-lilia.txt  | 410 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ worklog-louise.txt | 104 ++++++++++++++
+ 3 files changed, 518 insertions(+), 1 deletion(-)
+ create mode 100644 worklog-lilia.txt
+ create mode 100644 worklog-louise.txt
+17f44e4 HEAD@{0}: pull origin main: Fast-forward
+0c61f98 HEAD@{1}: merge feature/status-v2: Fast-forward
+b9d8d71 HEAD@{2}: checkout: moving from feature/status-v2 to main
+0c61f98 HEAD@{3}: commit: chore: bump status to draft v2
+b9d8d71 HEAD@{4}: checkout: moving from main to feature/status-v2
+b9d8d71 HEAD@{5}: merge feature/aurore-idea: Merge made by the 'ort' strategy.
+7cdab95 HEAD@{6}: pull origin main: Fast-forward
+35c243c HEAD@{7}: checkout: moving from feature/aurore-idea to main
+be16ccd HEAD@{8}: commit: feat: add trypsin to reagents list
+8656a9a HEAD@{9}: checkout: moving from main to feature/aurore-idea
+35c243c HEAD@{10}: checkout: moving from feature/aurore-idea to main
+8656a9a HEAD@{11}: checkout: moving from main to feature/aurore-idea
+35c243c HEAD@{12}: checkout: moving from feature/aurore-idea to main
+8656a9a HEAD@{13}: commit: feat: add PBS to reagents list
+35c243c HEAD@{14}: checkout: moving from main to feature/aurore-idea
+35c243c HEAD@{15}: commit: feat: restore team note from aurore
+6ebe954 HEAD@{16}: revert: Revert "feat: add team note from aurore"
+9786471 HEAD@{17}: reset: moving to HEAD~1
+6b62608 HEAD@{18}: commit: test: throwaway commit
+9786471 HEAD@{19}: pull origin main: Merge made by the 'ort' strategy.
+dda1843 HEAD@{20}: commit: feat: add team note from aurore
+d024386 HEAD@{21}: clone: from https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER.git
+* 17f44e4 (HEAD -> main, origin/main, origin/HEAD) docs: update worklog for louise
+* 7ab1108 fix: remove duplicate recovery medium
+*   674d309 Merge branch 'feature/louise-idea'
+|\  
+| * a611905 (origin/feature/louise-idea) feat: add recovery medium to reagents list
+| * 5a2fce6 feat: add culture medium to reagents list
+* |   f814205 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\ \  
+| * | cbea33f docs: add louise worklog
+* | | 6dc0faf docs: add worklog for lilia
+|/ /  
+* |   a746bf2 Merge branch 'feature/lilia-idea'
+|\ \  
+| |/  
+|/|   
+| * d3e97a6 docs: specify incubation conditions for recovery
+| * 643122d (origin/feature/lilia-idea) feat: add recovery media to reagents
+* |   b026773 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\ \  
+| * \   c1ed833 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+| |\ \  
+| * \ \   147a342 Merge branch 'feature/status-review'
+| |\ \ \  
+| | * | | 3386c3f chore: mark status as under review
+* | | | | 0178a55 Revert "feat: add louise test line"
+* | | | | e6264c5 feat: add louise test line
+| |_|/ /  
+|/| | |   
+* | | | 63e53e8 fix: remove leftover conflict markers
+* | | | 2d46bcb feat: restore team note from louise
+|/ / /  
+* | |   0a1beba Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\ \ \  
+| * | | 0c61f98 (feature/status-v2) chore: bump status to draft v2
+| |/ /  
+* | | 33c3cc0 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+|\| | 
+| * |   b9d8d71 chore: merge feature/aurore-idea into main
+| |\ \  
+| | * | be16ccd (origin/feature/aurore-idea, feature/aurore-idea) feat: add trypsin to reagents list
+| | * | 8656a9a feat: add PBS to reagents list
+| * | | 7cdab95 feat: restore team note from lilia
+| * | | dd36228 Revert "feat : modification essai  lilia"
+| |/ /  
+| * | 35c243c feat: restore team note from aurore
+| * | 6ebe954 Revert "feat: add team note from aurore"
+| |/  
+| *   9786471 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+| |\  
+| | * 6fbae55 feat : modification essai  lilia
+| * | dda1843 feat: add team note from aurore
+| |/  
+* / 021eb15 feat : Essaie modification Louise
+|/  
+* d024386 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-aurore.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
