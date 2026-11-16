@@ -63,3 +63,42 @@ Merge made by the 'ort' strategy.
  1 file changed, 1 insertion(+), 1 deletion(-)
 To https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER.git
    0c61f98..0a1beba  main -> main
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main 7ab1108] fix: remove duplicate recovery medium
+ 1 file changed, 1 deletion(-)
+To https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER.git
+   674d309..7ab1108  main -> main
+[main 580389f] test: throwaway commit
+ 1 file changed, 1 insertion(+)
+580389f test: throwaway commit
+7ab1108 fix: remove duplicate recovery medium
+674d309 Merge branch 'feature/louise-idea'
+Unstaged changes after reset:
+M	protocol.md
+M	worklog-louise.txt
+7ab1108 fix: remove duplicate recovery medium
+674d309 Merge branch 'feature/louise-idea'
+f814205 Merge branch 'main' of https://github.com/SupBiotech-MSc2/LASSOUED_MOUSQUES_SCHERRER
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+	modified:   worklog-louise.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   worklog-louise.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
